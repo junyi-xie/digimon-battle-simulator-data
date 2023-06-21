@@ -1,0 +1,106 @@
+{
+  "type": [
+    {
+      "id": 1,
+      "name": "Fire",
+      "effective": [
+        2
+      ],
+      "weakness": [
+        4
+      ],
+      "neutral": [
+        1,
+        2,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ice",
+      "effective": [
+        3
+      ],
+      "weakness": [
+        1
+      ],
+      "neutral": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Air",
+      "effective": [
+        4
+      ],
+      "weakness": [
+        2
+      ],
+      "neutral": [
+        1,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Nature",
+      "effective": [
+        1
+      ],
+      "weakness": [
+        3
+      ],
+      "neutral": [
+        1,
+        2,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Dark",
+      "effective": [
+        6
+      ],
+      "weakness": [
+        6
+      ],
+      "neutral": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Holy",
+      "effective": [
+        5
+      ],
+      "weakness": [
+        5
+      ],
+      "neutral": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ]
+    }
+  ]
+}

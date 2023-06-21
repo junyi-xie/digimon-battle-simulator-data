@@ -1,0 +1,348 @@
+{
+  "attacks": [
+    {
+      "id": 1,
+      "name": "Heat Breath",
+      "description": "Spews a very hot breath of flames at enemies in front.",
+      "power": 70,
+      "type": "Fire",
+      "category": "Physical"
+    },
+    {
+      "id": 2,
+      "name": "Fire Tower",
+      "description": "Attack that results in a pillar of flame erupting at the target's feet.",
+      "power": 70,
+      "type": "Fire",
+      "category": "Magic"
+    },
+    {
+      "id": 3,
+      "name": "Firewall",
+      "description": "Attack that surrounds the attacker with a wall of fire.",
+      "power": 80,
+      "type": "Fire",
+      "category": "Magic"
+    },
+    {
+      "id": 4,
+      "name": "Burning Heart",
+      "description": "Enflames the hearts of allies, boosting their strength.",
+      "power": 100,
+      "type": "Fire",
+      "category": "Physical"
+    },
+    {
+      "id": 5,
+      "name": "Inferno",
+      "description": "Attack that surrounds the attacker with the flames of hell.",
+      "power": 130,
+      "type": "Fire",
+      "category": "Magic"
+    },
+    {
+      "id": 6,
+      "name": "Magma Bomb",
+      "description": "Rains bolts of lava from the sky, dealing enemies much damage.",
+      "power": 150,
+      "type": "Fire",
+      "category": "Magic"
+    },
+    {
+      "id": 7,
+      "name": "Flame Storm",
+      "description": "Raises a storm of flames, dealing much damage to a wide range of enemies.",
+      "power": 150,
+      "type": "Fire",
+      "category": "Physical"
+    },
+    {
+      "id": 8,
+      "name": "Bubble Breath",
+      "description": "Bathes enemies in front in a powerful water breath attack.",
+      "power": 80,
+      "type": "Ice",
+      "category": "Magic"
+    },
+    {
+      "id": 9,
+      "name": "Hail Spear",
+      "description": "Attack that raises painfully sharp icicles from under the target's feet.",
+      "power": 70,
+      "type": "Ice",
+      "category": "Physical"
+    },
+    {
+      "id": 10,
+      "name": "Splash",
+      "description": "Attack that blasts enemies in front with water at high pressure.",
+      "power": 50,
+      "type": "Ice",
+      "category": "Physical"
+    },
+    {
+      "id": 11,
+      "name": "Waterfall",
+      "description": "Attack that drops in a flow of high-pressure water on the target's head.",
+      "power": 90,
+      "type": "Ice",
+      "category": "Physical"
+    },
+    {
+      "id": 12,
+      "name": "Heavy Rain",
+      "description": "Attack that brings powerful torrential rains to a wide area.",
+      "power": 130,
+      "type": "Ice",
+      "category": "Magic"
+    },
+    {
+      "id": 13,
+      "name": "Ice Statue",
+      "description": "Attack that results in giant icicles erupting at the target's feet.",
+      "power": 110,
+      "type": "Ice",
+      "category": "Physical"
+    },
+    {
+      "id": 14,
+      "name": "Aurora Freeze",
+      "description": "Raises a powerful blizzard of water and ice, dealing much damage to a wide range of enemies.",
+      "power": 150,
+      "type": "Ice",
+      "category": "Physical"
+    },
+    {
+      "id": 15,
+      "name": "Electric Chute",
+      "description": "Shoots a ball of energy at enemies.",
+      "power": 70,
+      "type": "Air",
+      "category": "Magic"
+    },
+    {
+      "id": 16,
+      "name": "Wing Shoes",
+      "description": "Sends a pleasing wind to the feet of you and your allies, increasing speed.",
+      "power": 60,
+      "type": "Air",
+      "category": "Physical"
+    },
+    {
+      "id": 17,
+      "name": "Wind Cutter",
+      "description": "Attack that looses a cutting whirlwind at the target.",
+      "power": 80,
+      "type": "Air",
+      "category": "Physical"
+    },
+    {
+      "id": 18,
+      "name": "Electric Cloud",
+      "description": "Attacks with strikes of lightning from thunderclouds gathered over the target's head.",
+      "power": 100,
+      "type": "Air",
+      "category": "magic"
+    },
+    {
+      "id": 19,
+      "name": "Tailwind",
+      "description": "Sends a powerful wind to the feet of you and your allies, increasing speed.",
+      "power": 90,
+      "type": "Air",
+      "category": "Magic"
+    },
+    {
+      "id": 20,
+      "name": "Thunderstorm",
+      "description": "Shoots lightning from all directions, dealing much damage to a wide range of enemies.",
+      "power": 150,
+      "type": "Air",
+      "category": "Physical"
+    },
+    {
+      "id": 21,
+      "name": "Hurricane",
+      "description": "Raises a powerful hurricane, dealing much damage to a wide range of enemies.",
+      "power": 150,
+      "type": "Air",
+      "category": "Magic"
+    },
+    {
+      "id": 22,
+      "name": "Poison Powder",
+      "description": "Attacks enemies in front with a poisonous mist.",
+      "power": 60,
+      "type": "Nature",
+      "category": "Magic"
+    },
+    {
+      "id": 23,
+      "name": "Earth Coat",
+      "description": "Wraps you and your allies in stone, increasing stamina.",
+      "power": 80,
+      "type": "Nature",
+      "category": "Physical"
+    },
+    {
+      "id": 24,
+      "name": "Bio Field",
+      "description": "Attack that surrounds the attacker with a poisonous mist.",
+      "power": 90,
+      "type": "Nature",
+      "category": "Physical"
+    },
+    {
+      "id": 25,
+      "name": "Root Bind",
+      "description": "Attack that brings forth a clinging ivy to cover the victim.",
+      "power": 110,
+      "type": "Nature",
+      "category": "Magic"
+    },
+    {
+      "id": 26,
+      "name": "Rock Fall",
+      "description": "Attack that drops giant boulders on the target's head.",
+      "power": 130,
+      "type": "Nature",
+      "category": "Magic"
+    },
+    {
+      "id": 27,
+      "name": "Earth Power",
+      "description": "Wraps attacker and allies in stone, increasing stamina.",
+      "power": 130,
+      "type": "Nature",
+      "category": "Physical"
+    },
+    {
+      "id": 28,
+      "name": "Venom Disaster",
+      "description": "Brings forth a tornado of poisonous mist, dealing much damage to a wide range of enemies.",
+      "power": 150,
+      "type": "Nature",
+      "category": "Magic"
+    },
+    {
+      "id": 29,
+      "name": "Dark Spirit",
+      "description": "Shoots a ball of darkness at enemies.",
+      "power": 70,
+      "type": "Dark",
+      "category": "Magic"
+    },
+    {
+      "id": 30,
+      "name": "Blackout",
+      "description": "Brings forth a dark mist to the surroundings, dealing damage to enemies.",
+      "power": 80,
+      "type": "Dark",
+      "category": "Physical"
+    },
+    {
+      "id": 31,
+      "name": "Nightmare",
+      "description": "Brings forth an eye of darkness, whose stare deals damage, from above the victim's head.",
+      "power": 80,
+      "type": "Dark",
+      "category": "Physical"
+    },
+    {
+      "id": 32,
+      "name": "Chaos Cloud",
+      "description": "Attacks enemies in front with dark energy.",
+      "power": 90,
+      "type": "Dark",
+      "category": "Physical"
+    },
+    {
+      "id": 33,
+      "name": "Shadow Fall",
+      "description": "Drops bolts of dark energy down on the target's head.",
+      "power": 110,
+      "type": "Dark",
+      "category": "Magic"
+    },
+    {
+      "id": 34,
+      "name": "Hide and Seek",
+      "description": "Attacks a wide range of enemies with a dark fear that turns enemy anger to allied Digimon.",
+      "power": 150,
+      "type": "Dark",
+      "category": "Magic"
+    },
+    {
+      "id": 35,
+      "name": "Evil Squall",
+      "description": "Brings forth powerful dark energy, dealing much damage to a wide range of enemies.",
+      "power": 150,
+      "type": "Dark",
+      "category": "Physical"
+    },
+    {
+      "id": 36,
+      "name": "Light Soul",
+      "description": "Shoots a ball of light energy at enemies.",
+      "power": 70,
+      "type": "Holy",
+      "category": "Magic"
+    },
+    {
+      "id": 37,
+      "name": "Saint Ray",
+      "description": "Attack that drops a column of light on the target's head.",
+      "power": 80,
+      "type": "Holy",
+      "category": "Physical"
+    },
+    {
+      "id": 38,
+      "name": "Holy Breath",
+      "description": "Increases the stamina and speed of allies.",
+      "power": 80,
+      "type": "Holy",
+      "category": "Magic"
+    },
+    {
+      "id": 39,
+      "name": "Flash",
+      "description": "Deals damage to enemies by exploding them from within with light.",
+      "power": 90,
+      "type": "Holy",
+      "category": "Magic"
+    },
+    {
+      "id": 40,
+      "name": "Saint Shield",
+      "description": "Deals damage to area around target with a dome of light.",
+      "power": 110,
+      "type": "Holy",
+      "category": "Physical"
+    },
+    {
+      "id": 41,
+      "name": "Judgement",
+      "description": "Attacks enemies with an extra powerful laser of judgement.",
+      "power": 150,
+      "type": "Holy",
+      "category": "Physical"
+    },
+    {
+      "id": 42,
+      "name": "Shining Nova",
+      "description": "Fills the surrounding area with light energy, dealing much damage to enemies.",
+      "power": 150,
+      "type": "Holy",
+      "category": "Magic"
+    },
+    {
+      "id": 999,
+      "name": "The World",
+      "description": "ZA WARUDO! TOKI WO TOMARE!",
+      "power": 300,
+      "type": "",
+      "category": "Physical"
+    }
+  ]
+}

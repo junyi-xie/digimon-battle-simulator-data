@@ -1,0 +1,46 @@
+{
+  "ability": [
+    {
+      "id": 1,
+      "name": "Blaze",
+      "effect": "Strengthens user's fire-type attack techniques.",
+      "effect_id": 1000,
+      "multiplier": 1.33
+    },
+    {
+      "id": 2,
+      "name": "Torrent",
+      "effect": "Strengthens user's ice-type attack techniques.",
+      "effect_id": 2000,
+      "multiplier": 1.33
+    },
+    {
+      "id": 3,
+      "name": "Delta",
+      "effect": "Strengthens user's air-type attack techniques.",
+      "effect_id": 3000,
+      "multiplier": 1.33
+    },
+    {
+      "id": 4,
+      "name": "Overgrow",
+      "effect": "Strengthens user's nature-type attack techniques.",
+      "effect_id": 4000,
+      "multiplier": 1.33
+    },
+    {
+      "id": 5,
+      "name": "Dark Aura",
+      "effect": "Amplifies user's dark-type attack techniques, bolstering their power and effectiveness",
+      "effect_id": 5000,
+      "multiplier": 1.67
+    },
+    {
+      "id": 6,
+      "name": "Light Aura",
+      "effect": "Amplifies user's holy-type attack techniques, bolstering their power and effectiveness",
+      "effect_id": 6000,
+      "multiplier": 1.67
+    }
+  ]
+}
